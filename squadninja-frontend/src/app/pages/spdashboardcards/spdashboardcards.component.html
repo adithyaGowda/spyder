@@ -1,0 +1,131 @@
+<!-- <link
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+  rel="stylesheet"
+/> -->
+<!-- idea -->
+<!-- <div class="wrapper">
+  <div class="content" *ngFor="let x of ideaCardsData"> -->
+    <!-- card -->
+    <!-- <div class="card" data-toggle="modal" (click)="saveCardDetails(x)" data-target="#exampleModalScrollable">
+      <div class="icon">
+        <i class="material-icons md-36">alternate_email</i>
+      </div>
+      <p class="title">{{ x.title }}</p>
+      <p class="text">{{ x.description }}</p>
+    </div> -->
+    <!-- end card -->
+    <!-- card -->
+    <!-- <div class="card">
+           <div class="icon"><i class="material-icons md-36">alternate_email</i></div>
+           <p class="title">{{x.ideaTitle}}</p>
+           <p class="text">{{x.description}}</p>
+     </div> -->
+    <!-- end card -->
+    <!-- card -->
+    <!-- <div class="card">
+           <div class="icon"><i class="material-icons md-36">alternate_email</i></div>
+           <p class="title">{{x.ideaTitle}}</p>
+           <p class="text">{{x.description}}</p>
+     </div> -->
+    <!-- end card -->
+  <!-- </div>
+</div> -->
+
+<!-- service -->
+<!-- <div class="wrapper">
+  <div class="content" *ngFor="let y of spCardData"> -->
+    <!-- card -->
+    <!-- <div class="card" data-toggle="modal" (click)="saveCardDetails(x)" data-target="#exampleModalScrollable">
+      <div class="icon"><i class="material-icons md-36">face</i></div>
+      <p class="title">{{ y.name }}</p>
+      <p class="text">{{ y.role.skills }}</p>
+    </div>
+  </div>
+</div> -->
+
+<!-- Modal -->
+
+<!-- <div class="header bg-gradient-dark opacity-1 pb-8 pt-5 pt-md-8">
+</div>
+<div class="container-fluid">
+ <div class="row mt-9">
+   <div class="col-xl-11 mb-8 mb-xl-5">
+     <div class="card shadow">
+       <h2 class=" mb-3">
+         <span>My Ideas</span>
+       </h2>
+       <mat-card class="cardGroup" cols>
+         <mat-card class="matCard" *ngFor="let card of cards;let index=index" >
+           <mat-card-title>card title</mat-card-title>
+         </mat-card>
+         <mat-card class="matCard">
+           <mat-card-title>card title</mat-card-title>
+         </mat-card>
+         <mat-card class="matCard">
+           <mat-card-title>card title</mat-card-title>
+         </mat-card>
+         <mat-card class="matCard">
+           <mat-card-title>card title</mat-card-title>
+         </mat-card>
+         <mat-card class="matCard">
+           <mat-card-title>card title</mat-card-title>
+         </mat-card>
+       </mat-card>
+     </div>
+   </div>
+ </div>
+</div>
+<div
+  class="modal fade"
+  id="exampleModalScrollable"
+  tabindex="-1"
+  role="dialog"
+  aria-labelledby="exampleModalScrollableTitle"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalScrollableTitle">
+         Title: {{x.title}}
+        </h5>
+        <button
+          type="button"
+          class="close"
+          data-dismiss="modal"
+          aria-label="Close"
+        >
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p><b>Description:</b>{{x.description}}</p>
+        <p><b>Domain:</b>{{x.domain}}</p>
+        <p><b>Subdomain:</b>{{x.subdomain}}</p>
+      
+      </div>
+      <div class="modal-footer">
+       
+        <button type="button" (click)="applyData()" class="btn btn-primary">Apply</button>
+      </div>
+    </div>
+  </div>
+</div> -->
+<div class="header bg-gradient-dark opacity-1 pb-8 pt-5 pt-md-8">
+</div>
+<div class="container-fluid">
+ <div class="row mt-9">
+   <div class="col-xl-11 mb-8 mb-xl-5">
+     <div class="card shadow">
+       <h2 class=" mb-3">
+         <span>Recommended Ideas</span>
+       </h2>
+       <mat-card class="cardGroup" cols>
+         <mat-card class="matCard" *ngFor="let x of recommendCards" >
+           <mat-card-title>{{x.title}}</mat-card-title>
+         </mat-card>
+       </mat-card>
+     </div>
+   </div>
+ </div>
+</div>

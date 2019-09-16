@@ -1,0 +1,215 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- idea -->
+<div class="wrapper">
+  <div class="content" *ngFor="let x of ideaCardsData">
+     <!-- card -->
+     <div class="card"  [routerLink]="['/login']" routerLinkActive="router-link-active"  (click)="openCard()">
+           <div class="icon"><i class="material-icons md-36">alternate_email</i></div>
+           <p class="title">{{x.title}}</p>
+           <p class="text">{{x.description}}</p>
+     </div>
+     <!-- end card -->
+     <!-- card -->
+     <!-- <div class="card">
+           <div class="icon"><i class="material-icons md-36">alternate_email</i></div>
+           <p class="title">{{x.ideaTitle}}</p>
+           <p class="text">{{x.description}}</p>
+     </div> -->
+     <!-- end card -->
+     <!-- card -->
+     <!-- <div class="card">
+           <div class="icon"><i class="material-icons md-36">alternate_email</i></div>
+           <p class="title">{{x.ideaTitle}}</p>
+           <p class="text">{{x.description}}</p>
+     </div> -->
+     <!-- end card -->
+  </div>
+</div>
+
+
+<!-- service -->
+<div class="wrapper">
+  <div class="content" *ngFor="let y of spCardData">
+     <!-- card -->
+     <div class="card">
+           <div class="icon"><i class="material-icons md-36">face</i></div>
+           <p class="title">{{y.name}}</p>
+           <p class="text">{{y.role.skills }}</p>
+     </div>
+     
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<!-- <div class="container-fluid" >
+  <div class="col">
+    <div class="row">
+    </div>
+    <div class="row">
+      <mdb-carousel   [isControls]="true" class="carousel-multi-item multi-animation" [type]="'carousel-multi-item'"
+        [animation]="'slide'">
+        <mdb-carousel-item *ngFor="let item of slides; let i = index" >
+          <div class="col-md-3" [ngClass]="{'d-none d-md-block': cardIndex !== 0}"
+            *ngFor="let card of item; let cardIndex = index">
+            <mdb-card class="my-1">
+              <mdb-card-img [src]="card.img" (click)="selectedEntity(card.title)" alt="Card image cap"></mdb-card-img>
+              <mdb-card-body>
+                <mdb-card-title>
+                  <h4>{{card.title}}</h4>
+                </mdb-card-title>
+                <p>{{card.description}}</p><br>
+                <ngb-rating [rate]="card.rate"></ngb-rating><br>
+                <a href="#" mdbBtn color="primary" class="waves-light" mdbWavesEffect>{{card.buttonText}}</a>
+
+                <hr>
+              </mdb-card-body>
+            </mdb-card>
+          </div>
+        </mdb-carousel-item>
+      </mdb-carousel>
+    </div>
+  </div>
+</div> -->
+
+
+<section class="section section-shaped">
+    <div class="shape shape-style-1 shape-default">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+    <div class="container py-md">
+      <div class="row justify-content-between align-items-center">
+        <div class="col-lg-5 mb-5 mb-lg-0">
+          <h1 class="text-white font-weight-light">Bootstrap carousel</h1>
+          <p class="lead text-white mt-4">matter to be collected</p>
+          <a href="/" class="btn btn-white mt-4">Let's Get Started</a>
+        </div>
+        <div class="col-lg-6 mb-lg-auto">
+          <div class="rounded shadow-lg overflow-hidden transform-perspective-right">
+            <ngb-carousel>
+                <ng-template ngbSlide>
+                  <img class="img-fluid" src="assets/img/theme/ih.jpg" alt="First slide">
+                </ng-template>
+                <ng-template ngbSlide>
+                  <img class="img-fluid" src="assets/img/theme/sp.jpg" alt="Second slide">
+                </ng-template>
+            </ngb-carousel>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- SVG separator -->
+    <div class="separator separator-bottom separator-skew">
+      <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+        <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
+      </svg>
+    </div>
+  </section>
+
+
+<!-- 
+<section class="section section-shaped"> -->
+
+  
+
+<!-- </section> -->
+
+
+
+
+
+
+  <!-- <app-nucleo-section></app-nucleo-section> -->
+  <!-- <section class="section section-lg section-shaped">
+    <div class="shape shape-style-1 shape-default">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div> -->
+    <!-- <div class="container py-md">
+      <div class="row row-grid justify-content-between align-items-center">
+        <div class="col-lg-6">
+          <h3 class="display-3 text-white">To get Started 
+            <span class="text-white">Proceed here</span>
+          </h3>
+          <p class="lead text-white"></p>
+          <div class="btn-wrapper">
+            <a [routerLink]="['/login']" class="btn btn-success">Login Page</a>
+            <a [routerLink]="['/register']" class="btn btn-white">Register Page</a>
+          </div>
+        </div>
+        <div class="col-lg-5 mb-lg-auto">
+          <div class="transform-perspective-right">
+            <div class="card bg-secondary shadow border-0">
+              <div class="card-header bg-white pb-5">
+                <div class="text-muted text-center mb-3">
+                  <small>Sign in with</small>
+                </div>
+                <div class="btn-wrapper text-center">
+                  <a href="javascript:void(0)" class="btn btn-neutral btn-icon">
+                    <span class="btn-inner--icon">
+                      <img src="./assets/img/icons/common/google.svg">
+                    </span>
+                    <span class="btn-inner--text">Google</span>
+                  </a>
+                </div>
+              </div>
+              <div class="card-body px-lg-5 py-lg-5">
+                <div class="text-center text-muted mb-4">
+                  <small>Or sign in with credentials</small>
+                </div>
+                <form role="form">
+                  <div class="form-group mb-3" [ngClass]="{'focused':focus===true}">
+                    <div class="input-group input-group-alternative">
+                      <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="ni ni-email-83"></i></span>
+                      </div>
+                      <input class="form-control" placeholder="Email" type="email" (focus)="focus=true" (blur)="focus=false">
+                    </div>
+                  </div>
+                  <div class="form-group" [ngClass]="{'focused':focus1===true}">
+                    <div class="input-group input-group-alternative">
+                      <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="ni ni-lock-circle-open"></i></span>
+                      </div>
+                      <input class="form-control" placeholder="Password" type="password" (focus)="focus1=true" (blur)="focus1=false">
+                    </div>
+                  </div>
+                  <div class="custom-control custom-control-alternative custom-checkbox">
+                    <input class="custom-control-input" id=" customCheckLogin2" type="checkbox">
+                    <label class="custom-control-label" for=" customCheckLogin2">
+                      <span>Remember me</span>
+                    </label>
+                  </div>
+                  <div class="text-center">
+                    <button type="button" class="btn btn-primary my-4">Sign in</button>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+    <!-- SVG separator -->
+    <!-- <div class="separator separator-bottom separator-skew">
+      <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+        <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
+      </svg>
+    </div>
+  </section> -->

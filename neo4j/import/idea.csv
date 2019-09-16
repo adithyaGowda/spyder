@@ -1,0 +1,135 @@
+nodeId,title,description,duration,cost,status,nodeType,pid1,pid9,pid2,pid3,pid4,pid5,pid6,pid7,pid8,pid10,pid11,pid12,pid13
+301,Modify a custom media player based on tkinter python ,"We have created a media player on Tkinter python to be able to crop videos and have added voice recognition
+ to crop videos. But the current developer is not able to continue due to medical emergency and there are certain
+ Functionalities which are pending/incomplete.",3 month,100,open,idea,616,103,617,618,622,623,624,625,626,806,808,809,627
+302,Magento 2 Olegnax bug fix ,"Hey we have a problem with our banner slider, we can no longer edit the images from our admin panel,It did work 5 days ago",2 month,89,open,idea,601,107,603,604,605,616,615,null,null,804,805,806,null
+303,"Create a window service to logon the windows user 
+session with different user given in some text / config
+ File ",Create a window service to logon the windows user session with different user given in some text / config file ,4 month,98,open,idea,602,107,607,623,628,619,null,null,null,807,808,809,null
+304," Build custom framework included 3rd party framework 
+without Cocoapods on iOS ","1. 3rd party framework with cocoapods include in custom framework
+2. It must be work normally on the test source code using Swift
+3. I want to fix custom framework that I am currently working on through a remote work",5 month,67,open,idea,601,104,603,609,614,629,null,null,null,810,811,812,null
+305,Website HTML 5 pages ,"We are looking for developers to work on a continuous basis:
+
+I need your best quotation for developing a 5 pages website in HTML
+
+• Simple and clean Design
+
+• 2 Slideshows
+
+• Backend for manage content",4 month,98,open,idea,601,107,602,604,605,613,624,null,null,813,814,815,null
+306,"Need a website for my new recruitment firm and 
+Medical Tourism abroad ","My main company will have two sub domains - 1) recruitment and placement abroad, 2) Medical Tourism
+ Like have to bring patients from abroad to india and doctors will go abroad for OP to the hospitals .",5 month,99,open,idea,613,103,614,615,616,617,618,619,620,805,806,807,621
+307,develop SaaS solution to our website ,"We need an web application
+The price is max 300 euros (no negotiation please)
+we can buy for you also libraries that you want
+First Display
+- It needs a simple authentication to access
+- It access to internal Excel/CSV files that structure can dynamically changes of course insert data to mysql database
+- The user should select one or more table to process, he can combine also many tables that have the same structure of course.
+- The user can also delete data files
+Second Display
+The web application should display 4 fragments
+1) First Fragment:
+- The User will see on left corner of web application all database data.
+- In the right of web application: it will displays all values of selected headers: they are displayed as lines.
+
+",6 month,78,open,idea,604,103,605,606,607,608,609,610,611,802,803,804,612
+308,Real estate finder,"I would like to build a two language portal that helps owners list their properties for sale or rent. The site should be dual
+ languages English and Arabic, using the latest technologies.
+The site will include the ability to add pictures and videos of the property and define map location.
+The property detail will include the type of property, a single-family, townhouse, apartment or multifamily structure.
+ The size of a property can be described in square feet or meters. Property's all detail like a year if built, lot area, price, the
+ Price per square feet and description should also be included.",5 month,87,open,idea,601,102,602,604,605,613,624,null,null,807,808,809,null
+309,Robotics Automation ,"We are starting up a project to deliver a automation with logically thinking to a financial department. The purpose of this project
+ is to include you on a early stage of the project and gather necessary information for how to proceed with automation.
+ We expect you to have prior knowledge of RPA development indenpendet of which platform you have used.",3 month,97,open,idea,607,103,608,609,610,611,612,613,614,803,804,805,615
+310,"Set up a cloud based instance of a piece of windows
+ Software on AWS. -- 5","Hi I am looking for someone to set up a cloud based instance of the following software. and host it responsively as an
+ Application in the cloud using AWS.
+the software is [login to view URL]
+I have also found these possible products which may be suitable to host this.
+[login to view URL]
+[login to view URL]",4 month,89,open,idea,601,103,602,603,604,605,606,607,608,801,802,803,609
+311,"Wordpress - WP Bakery Responsive issues with
+ element on mobile","Hello, I have a client who uses a system which has not been designed for use on mobile of tablets. So when you view the page
+ on mobile or tablet, elements will overlap and the whole concept of no pitch to zoom is gone. I am looking for someone who
+ has experience with WP Bakery as I am assuming you can create custom sized blocks then make them show on certain
+ Devices. If you can fix this let me know.",5 month,97,open,idea,601,104,602,608,611,null,null,null,null,801,802,803,null
+312,Integrate with PayPal subscriptions. ,"The project has 3 subscription plans (basic, plus and professional). Each plan has a 30-day trial.
+What I want is to integrate with PayPal and make use of PayPal's subscriptions",1 month,89,open,idea,638,107,628,618,621,624,611,null,null,804,805,806,null
+313,Script to Dump Shopify Orders into MySQL Table -- 3 ,"Hi, I need a script to dump Shopify orders into MySQL table.
+I need orders ASAP.",2 month,88,open,idea,602,109,623,null,null,null,null,null,null,807,808,809,null
+314,Car park software ,"Creation of a software allowing the taking of order via an iframe and the management of places of parking.
+ Front iframe looks like",1 month,95,open,idea,601,107,602,603,619,612,617,null,null,810,811,812,null
+315,Add https from http to an Instance in EC2 on Amazon ,We have a running script on amazon that needs to quicly had https protocol. It is http at this moment.,1 month,99,open,idea,632,105,633,623,624,601,630,631,null,813,814,815,null
+316,"Google Shopping and Adwords Management for 
+E-commerce Shop",Looking for someone to manage Google shopping and Adwords for our E-commerce store,1 month,87,open,idea,601,105,602,606,612,617,638,null,null,801,802,803,null
+317,Android studio app to IOS app,We have a application we also wanna put on IOS store but we made the app in android studio. ,1 month,93,open,idea,609,103,601,606,618,null,null,null,null,804,805,806,null
+318,Modify php web app to include some basic features,"I have an existing php web app that i want to add some features like Export all data from table.
+Add filters ,Modify User management page.",1 month,93,open,idea,603,107,628,638,639,null,null,null,null,807,808,809,null
+319,"Website (joomla template 2.0) eight task updates in 
+Logo, dummy messages, banner etc.","I have website up and running with jhoomla template 2.0 deployed in godaddy web hosting.I have following task to work upon:
+1. Hide jhoomla template message in main Page.
+2. A dummy logo in footer needed to be updated by LEHAL INFRA logo and with copy write message.
+3. Main Page has three dummy image Banner provided by templete. Images will be provided to update the banner.
+4. Remove dummy text from OUR PROJECT page.
+5. Update the Contact US form with Captcha
+6. Update the google map in Contact US page.",3 month,87,open,idea,601,107,602,604,605,613,624,null,null,810,811,812,null
+320,App developer,"I need an Android and IOS app. I would like it designed and built.
+",1 month,90,open,idea,613,104,614,615,616,617,618,619,620,805,806,807,621
+321,Sharepoint workflow 2013 ,"I need to add in [login to view URL] list/workflow history column of current user(approver)profile job position and 
+Change workflow variable ""consolidated comments"" oslo add field with job position of a approver",2 month,90,open,idea,613,103,614,615,616,617,618,619,620,805,806,807,621
+322,Build My Click Funnels Product Funnels,"1. Lead Capture Pages Setup
+2. Full Membership Setup
+3. Custom Domain Setup
+4. Design My Product Module
+6. Fix Funnel Issues
+7. Video Sales Pages with Delayed Buttons (I will provide the VSL Ad Copy)",3 month,89,open,idea,601,108,602,604,605,613,624,null,null,804,805,806,null
+323,"auto app , to register to a certain app , and grag api 
+And place it in a script","Will need skills in python or java , the process will go from register to choosing names .. and i'll explain the rest",1 month,98,open,idea,601,107,602,606,612,617,638,629,null,807,808,809,null
+324,Prestashop combination modify,"I have a prestashop store that have products with combinations. This combinations gives us some problems with our stock
+ because we sell our products in different packs. 12 pack and 48 pack..If i have 4x 12 pack in stock i also want my customer
+ to be able to buy the 1x48 pack. For that to be possible. I need to have 8x12 pack in stock so i can give my combinations
+ 4x12 in stock and 1x48 in stock.. This couses a lot of problem for us. I will explain this more.... Looking for someone that 
+Is an expert in prestashop...",4 month,88,open,idea,601,102,602,604,605,613,624,null,null,810,811,812,null
+325,Customer Private Web Area,"It is necessary to create a ReactJS component to be integrated in a CRM developed in ReactJS for the front-end part and
+ Parse Server (NodeJS and MongoDB) for the backend part.
+The component must give the possibility of:
+Reserved access to the customer, viewing and downloading of documents and sending mail
+The graphic framework used is Material UI.
+The component in question must be perfectly integrated into the existing project and must not be further modified.",2 month,97,open,idea,601,102,602,604,605,613,624,null,null,813,814,815,null
+326,Blockchain on WordPress private ,"Hi, I am looking for help with implementing blockchain technology on wordpress site",2 month,78,open,idea,641,109,638,630,635,622,618,619,null,801,802,803,null
+327,Blockchain wallet application,"Hello, i need a blockchain wallet application be developed with a high performance, i am new in this field,
+ And i need to know what steps am going to take and what you we need from me to get the project the project started",1 month,97,open,idea,641,101,617,637,632,618,613,null,null,804,805,806,null
+328,Virtual Assistant,"The Virtual Assistant will look after two Managing Partners of a Venture Capital firm based in Australia. The firm manages
+ More than $150 million of capital and has investments across Australia, North America, and Asia",1 month,34,open,idea,601,103,602,603,604,605,606,607,608,801,802,803,609
+329,Integrate SaaS solution to our Cloud,"We need an web application
+The price is max 300 euros (no negotiation please)
+we can buy for you also libraries that you want
+First Display
+- It needs a simple authentication to access
+- It access to internal Excel/CSV files that structure can dynamically changes of course insert data to mysql database
+- The user should select one or more table to process, he can combine also many tables that have the same structure of course.
+- The user can also delete data files",3 month,76,open,idea,610,103,611,612,613,614,615,616,617,804,805,806,618
+330,Telegram back end with node-red,"Build a Telegram back end using node-red to register users and let them subscribe. This should then allow them to perform
+ searches of our database of components, images and documents and send requests for components to suppliers stored in
+ our db who can then reply if they have the components available. I would like this done in node-red so that it is easy for 
+Myself to understand the flow and make changes in future",1 month,65,open,idea,613,109,611,616,617,628,625,null,null,813,814,815,null
+331,BRIDAL SHOWER,"A bridal shower is a wedding tradition in America, but one which has been welcomed with open arms in recent years in the UK.
+ The bridal shower is a chance to shower the bride-to-be with wishes, good luck and gifts. A pre-wedding party that’s slightly
+ More civilised than the hen night!",2 month,45,open,idea,640,202,null,null,null,null,null,null,null,801,802,803,null
+332,Fairytale Wedding,we are looking for a team who can provide a team for wedding preperation for fairytail wedding ,1 month,78,open,idea,640,202,null,null,null,null,null,null,null,804,805,806,null
+333,vintage wedding,we are looking for a team who can provide a team for wedding preperation for vintage wedding ,1 month,79,open,idea,640,202,null,null,null,null,null,null,null,807,808,809,null
+334,theame birthday for kid ,"we have a theame of jungle for kid birthday, we require a team for the preperation of birthday party",1 month,87,open,idea,640,201,null,null,null,null,null,null,null,810,811,812,null
+335,theame birthday party,we want to arrange a theame party based on bollywood ,1 month,69,open,idea,640,201,null,null,null,null,null,null,null,813,814,815,null
+336,Baby Shower,i want to celebrate a baby shower party at my house with minimum number of arrangment,1 month,98,open,idea,640,201,null,null,null,null,null,null,null,801,802,803,null
+337,Office party,we are having a office party for official purpuse ,1 month,76,open,idea,640,203,null,null,null,null,null,null,null,804,805,806,null
+338,corporate meeting,we are looking for a team who can provide us a classic meeting environment,1 month,89,open,idea,640,203,null,null,null,null,null,null,null,807,808,809,null
+339,sport event,we are looking for a team who provide good hospitality to our guests,1 month,79,open,idea,640,205,null,null,null,null,null,null,null,810,811,812,null
+340,Get Togather,we need only catering service for a small homely get togather,1 month,89,open,idea,640,205,null,null,null,null,null,null,null,813,814,815,null
+341,exhibition,we need a team to organize an event for exhibition,1 month,87,open,idea,640,204,null,null,null,null,null,null,null,801,802,null,null
+342,exhibition for craft,we need service providers who can handle our guests gently,1 month,79,open,idea,640,204,null,null,null,null,null,null,null,null,null,null,null
+343,fashion show event,we require event manager to organize show based on our requirnment,1 month,76,open,idea,640,204,null,null,null,null,null,null,null,null,null,null,null

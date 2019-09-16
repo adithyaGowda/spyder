@@ -1,0 +1,31 @@
+{
+    "ServiceProviderTest":[
+        {
+            "name" : "Mansi",
+            "role" : "Systems analyst" 
+
+        },
+        {
+            "name" : "Shiv",
+            "role" : "Systems analyst"
+        },
+        {
+            "name" : "Manish",
+            "role" : "Network engineer"
+        },
+        {
+            "name" : "Ramya",
+            "role" : "Network engineer"
+        },
+        {
+            "name" : "Sruthi",
+            "role" : "Technical support"
+        },
+        {
+            "name" : "Suresh",
+            "role" : "Technical support"
+        }
+
+
+    ]
+}

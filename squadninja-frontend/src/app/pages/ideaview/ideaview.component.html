@@ -1,0 +1,53 @@
+<div class="container">
+    <div class="example-button-row">
+        <button mat-button color="primary">Chat</button>
+        <button mat-button color="accent">Update Idea</button>
+        <button mat-button color="warn">Delete</button>
+        <button mat-button>Search Service Provider</button>
+    </div>
+    <section>
+        <div class="example-container">
+            <mat-form-field>
+                <input matInput placeholder="Project Title" />
+            </mat-form-field>
+            <mat-form-field>
+                <textarea matInput placeholder="Project Description"></textarea>
+            </mat-form-field>
+        </div>
+        <h4>Selected Team :</h4>
+    </section>
+    <div class="cards">
+        <mat-card *ngFor="let detail of details; let index = index">
+            <mat-card-header>
+                <div mat-card-avatar class="example-header-image"></div>
+                <mat-card-title>{{ detail.name }}</mat-card-title>
+                <mat-card-subtitle>{{ detail.Domain }}</mat-card-subtitle>
+            </mat-card-header>
+            <mat-card-content>
+                <p>
+                    Description Of Developer
+                </p>
+            </mat-card-content>
+            <button type="button" color="Success" (click)="removeCard(index)">Remove</button>
+        </mat-card>
+    </div>
+    <br />
+    <h4>Applied Service Providers :</h4>
+    <br />
+    <div class="cards">
+        <mat-card *ngFor="let detail of details; let index = index">
+            <mat-card-header>
+                <div mat-card-avatar class="example-header-image"></div>
+                <mat-card-title>{{ detail.name }}</mat-card-title>
+                <mat-card-subtitle>{{ detail.Domain }}</mat-card-subtitle>
+            </mat-card-header>
+            <mat-card-content>
+                <p>
+                    Description Of Developer
+                </p>
+            </mat-card-content>
+            <button type="button" color="Success">Accept</button>
+            <button type="button" color="Success">Reject</button>
+        </mat-card>
+    </div>
+</div>

@@ -1,0 +1,42 @@
+nodeId,name,nodeType,pid1,pid2,pid3,pid4
+601,css,skill,801,805,null,null
+602,mysql,skill,801,805,null,null
+603,php,skill,801,805,null,null
+604,html,skill,802,805,null,null
+605,javascript,skill,802,805,null,null
+606,asp.net,skill,802,null,null,null
+607,jsp,skill,803,null,null,null
+608,android,skill,803,null,null,null
+609,ios,skill,803,null,null,null
+610,c#,skill,804,null,null,null
+611,laveral,skill,804,805,null,null
+612,react.js,skill,804,null,null,null
+613,node.js,skill,805,null,null,null
+614,network admin,skill,805,null,null,null
+615,springboot,skill,805,null,null,null
+616,springmvc,skill,806,null,null,null
+617,json,skill,806,null,null,null
+618,kafka,skill,806,804,812,null
+619,neo4j,skill,807,810,null,null
+620,rabbitmq,skill,807,804,812,null
+621,c#,skill,807,null,null,null
+622,c++,skill,806,807,null,null
+623,core java,skill,801,null,null,null
+624,web hosting,skill,804,803,null,null
+625,aws,skill,803,null,null,null
+626,cloud,skill,803,null,null,null
+627,python,skill,810,803,814,null
+628,ruby,skill,801,804,812,null
+629,scala,skill,813,814,808,null
+630,linux,skill,807,806,803,808
+631,unix,skill,807,806,803,808
+632,cisco,skill,806,807,null,null
+633,routing,skill,806,807,null,null
+634,azure,skill,803,null,null,null
+635,neural network,skill,813,814,null,null
+636,artificial intelligence,skill,813,null,null,null
+639,nlp,skill,813,808,null,null
+637,pycharm,skill,813,null,null,null
+638,analytics,skill,802,null,null,null
+640,eventmgmt,skill,816,null,null,null
+641,blockchain,skill,808,null,null,null

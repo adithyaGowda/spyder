@@ -1,0 +1,67 @@
+{
+  "Selectedteam": [
+    {
+      "name": "Champakali",
+      "mobileNumber": 888766567,
+      "emailId": "fdksfjf@gmail",
+      "skills": ["java","C"],
+      "chargePerHour": "11111"
+    },
+    {
+      "name": "Champakali",
+      "mobileNumber": 888766567,
+      "emailId": "fdksfjf@gmail",
+      "skills": ["java","C"],
+      "chargePerHour": "11111"
+    }
+  ],
+
+  "Invitedteam": [
+    {
+      "name": "Champakali",
+      "mobileNumber": 888766567,
+      "emailId": "fdksfjf@gmail",
+      "skills": ["java", "C"],
+      "chargePerHour": "11111"
+    },
+    {
+      "name": "Champakali",
+      "mobileNumber": 888766567,
+      "emailId": "fdksfjf@gmail",
+      "skills": ["java","C"],
+      "chargePerHour": "11111"
+    }
+  ],
+  
+  "Appliedteam": [
+    {
+      "name": "Champakali",
+      "mobileNumber": 888766567,
+      "emailId": "fdksfjf@gmail",
+      "skills": ["java","C"],
+      "chargePerHour": "11111"
+    },
+    {
+      "name": "Champakali",
+      "mobileNumber": 888766567,
+      "emailId": "fdksfjf@gmail",
+      "skills": ["java","C"],
+      "chargePerHour": "11111"
+    }
+  ],
+  
+  "ideaPosted": {
+    "id": 12221,
+    "title": "Java developer",
+    "description": "shgdhjd",
+    "duration": "Threemonths",
+    "domain": "IT",
+    "subDomain": "Development",
+    "cost": 40,
+    "role": "developer",
+    "status": "regular",
+    "postedOn": "03/06/2019",
+    "postedBy": "Champak",
+    "location": "Blore"
+  }
+}

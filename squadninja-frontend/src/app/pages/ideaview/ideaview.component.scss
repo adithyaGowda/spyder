@@ -1,0 +1,37 @@
+button {
+    margin-right: 10px;
+    margin-top: 20px;
+    color: black;
+    background-color: white;
+   }
+   body {
+    background-color: white;
+    width: 100%;
+   }
+   .formtext {
+    margin-left: 20px;
+    margin-top: 100px;
+   }
+   .example-button-row button,
+   .example-button-row a {
+    margin-right: 8px;
+    float: right;
+    margin-top: 10px;
+   }
+   .example-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+   }
+   .example-container {
+    width: 300px;
+    margin-top: 50px;
+   }
+   .cards{
+    display: flex;
+    margin-right: 50px;
+   }
+   .example-header-image {
+    background-image: url('https://makeawebsitehub.com/wp-content/uploads/2017/04/wordpress-923188_640.jpg');
+    background-size: cover;
+   }
